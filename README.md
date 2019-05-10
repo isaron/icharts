@@ -13,4 +13,4 @@ $ git add -i
 $ git commit -av
 $ git push origin master
 ```
-From there, I can do a `helm repo add icharts https://isaron.github.com/icharts`
+From there, I can do a `helm repo add icharts https://isaron.github.com/icharts`.
