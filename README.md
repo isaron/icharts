@@ -2,6 +2,7 @@
 Helm charts repo.
 
 ### How It Works
+According to [docs/chart_repository.md at helm/helm](https://github.com/helm/helm/blob/master/docs/chart_repository.md)
 
 I set up GitHub Pages to point to the docs folder. From there, I can create and publish docs like this:
 ```
